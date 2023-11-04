@@ -1,7 +1,7 @@
 # HF-TG-bot-SY
 TG索引搜索机器人
-<!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://input-s3.mn.input.im/donate-group/7/20231101/20231101_1698776822.png" alt=""/></figure>
+<!-- wp:image {"align":"center","width":"540px","height":"auto","aspectRatio":"3/2","scale":"cover","sizeSlug":"large"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://input-s3.mn.input.im/donate-group/7/20231101/20231101_1698776822.png" alt="" style="aspect-ratio:3/2;object-fit:cover;width:540px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
