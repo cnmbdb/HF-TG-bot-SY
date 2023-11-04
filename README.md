@@ -1,5 +1,9 @@
 # HF-TG-bot-SY
 TG索引搜索机器人
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://input-s3.mn.input.im/donate-group/7/20231101/20231101_1698776822.png" alt=""/></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">演示机器人：<a href="https://t.me/thisindexBot" data-type="link" data-id="https://t.me/thisindexBot">@thisindexBot</a></p>
 <!-- /wp:paragraph -->
