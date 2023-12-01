@@ -9,7 +9,7 @@ TG索引搜索机器人
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>添加到你的群组会自动收录到索引里面，<code>收录群组</code>的，管理<code>群组机器人验证</code>，验证机器人，<code>广告拦截</code>，可以<code>自定义问题</code>，简单的加减法运算入群验证机器人。</p>
+<p>添加到你的群组会自动收录到索引里面，<code>收录群组</code>的，管理<code>群组机器人验证</code>，验证机器人，<code>广告拦截</code>，可以<code>自定义问题</code>，简单的加减法运算入群验证机器人。客服：<code><a href="https://t.me/HFTGID" data-type="link" data-id="https://t.me/HFTGID">@HFTGID</a></code></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
